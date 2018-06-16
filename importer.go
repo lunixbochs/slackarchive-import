@@ -9,9 +9,9 @@ import (
 	"path/filepath"
 	"sync"
 
-	"github.com/dutchcoders/slackarchive-import/config"
-	"github.com/dutchcoders/slackarchive-import/models"
-	"github.com/dutchcoders/slackarchive-import/utils"
+	"github.com/lunixbochs/slackarchive-import/config"
+	"github.com/lunixbochs/slackarchive-import/models"
+	"github.com/lunixbochs/slackarchive-import/utils"
 
 	"github.com/nlopes/slack"
 
